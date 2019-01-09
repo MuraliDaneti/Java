@@ -12,8 +12,10 @@ public class Hello {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {		
-		System.out.println("Hello Murali. Welcome to Selenium..!");
+	public static void main(String[] args) {
+		
+		System.out.println("Hello Murali. Welocme to Java World..!");
+
 	}
 
 }
